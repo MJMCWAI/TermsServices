@@ -1,36 +1,52 @@
-Last Updated: 12/19/2024
+Last Updated: 12/30/2024
 
-By using Transformia Research Software (hereafter "Software" or "the Software"), you have indicated that you have agreed to the terms of service of the Product.
+By using Transformia Research Software (hereafter referred to as "software" or "the software"), you (also referred to as "The user") have agreed to the terms of service of the software.
 
-In the event that you do not agreed to the following terms and conditions, MJM Creative Works and Ideas (here after "MJMCWAI") asks that you refrain and discontinue use of the Software.
+In the case that you do not agree to the following terms and conditions, MJM Creative Works and Ideas (here after "MJMCWAI") advises that you discontinue the use of the software.
 
-the Product is a game software designed for personal use and entertainment and my not be used for any other purposes.
+This software is intended for personal use and entertainment and is not advisable to be used for any other purposes.
+
 
 > PROHIBITED
-You cannot produced content or modification that contains real life Individual, group or companies.
 
-Use this Software to defame or slander MJMCWAI, its Products and Software, its partners, or anyone else thru various means including Televised programming, News articles, Livestream programming, streaming video programming and/or other multimedia medium.
+By agreeing to the terms, the user MAY NOT:
 
-Reselling, redistributing or lending this product in part or whole.
+	-Produce multimedia content or software modifications that depicts real-life individuals, groups, and events in a way that is deemed offensive or is produced with the intent of defamation, harassment or discrimination. This includes the development team (MJMCWAI) and its partners.
+		-The following are examples of "multimedia content"
+			-Game assets/mods
+			-Televised programming
+			-Online Livestreaming (Twitch, etc.)
+			-Online videos (Youtube, etc.)
+			-Social media posts
+			-Fanart
+			-Music
+			-Any other multimedia medium not mentioned above
 
-Posting of any personal information.
+	-Use this software as a medium for defamation, harassment, or discrimination against real-life individuals, and groups, including the development team (MJMCWAI) and its partners.
 
-This Software cannot be used for warfare purposes.
+	-Use the software to promote real-life violence or depict topics relating to real-life violence.
 
-> LIABILITY DISCLAIMER
-MJMCWAI is not responsible for any loss, or damage cause by using this Software or any related services offered and provided by MJMCWAI nor its partners.
+	-Sell, redistribute or rent out the product in part or whole.
 
-MJMCWAI does not guarantee the proper operation of the Software or its quality and performance.
 
-User are responsible for their own health and well-being while using this Software.
+> LIABILITIES
 
-MJMCWAI is not responsible for third-party, user-generated content or any from of modification, and cannot be liable due to its distribution, availability or its contents.
+-MJMCWAI is not responsible for any loss, or damage caused by using this software or any related services offered and provided by MJMCWAI nor its partners.
 
-MJMCWAI is not responsible if this Software is used for warfare.
+-MJMCWAI does not guarantee the proper operation of the software, its quality and performance if stated system requirements and compatibility requirements are not met.
+
+-MJMCWAI is not responsible for the content within third-party, user-generated content or any form of software modification, and cannot be held liable due to its distribution, availability, its effect on the software and any intellectual property rights involved.
+
+-MJMCWAI is not responsible for any multimedia content produced depicting the software, its assets and general gameplay.
+
+-The user is responsible for their own health and well-being while using this software.
+
 
 > Ownership of intellectual property rights
 
-All intellectual property rights for this Software and related services remain the Property of MJMCWAI and its Partners.
+All intellectual property rights for this software and related services remain the property of MJMCWAI and its partners. 
+
 
 > Changes to the Terms of Use
-This Terms of Use are subject to change without notice.
+
+Changes to the terms of use may change without prior notice.
