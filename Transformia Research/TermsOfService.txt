@@ -1,4 +1,4 @@
-Last Updated: 12/30/2024
+Last Updated: 1/14/2025
 
 By using Transformia Research Software (hereafter referred to as "software" or "the software"), you (also referred to as "The user") have agreed to the terms of service of the software.
 
@@ -21,6 +21,8 @@ By agreeing to the terms, the user MAY NOT:
 			-Fanart
 			-Music
 			-Any other multimedia medium not mentioned above
+
+	-Use this software as a medium or reason to promote real-life censorship, content ban or similar methods beside self-regulating (not including self-censorship) the creative industries (ie. videogames, movie, etc..) or encourage authorities to start censoring creative and independent content and software due to the content of this game.
 
 	-Use this software as a medium for defamation, harassment, or discrimination against real-life individuals, and groups, including the development team (MJMCWAI) and its partners.
 
