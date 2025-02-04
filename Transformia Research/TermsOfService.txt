@@ -26,7 +26,7 @@ By agreeing to the terms, the user MAY NOT:
 
 	-Use the software to promote real-life violence or depict topics relating to real-life violence.
 
-	-Sell, redistribute or rent out the product in part or whole.
+	-Sell, redistribute or rent out the software in part or whole.
 
 
 > LIABILITIES

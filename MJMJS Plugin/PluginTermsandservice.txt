@@ -1,0 +1,39 @@
+Last update 2/4/2025
+
+Jomarcenter-MJM RPG Maker MZ Plugin Terms of service
+
+By using Jomarcenter-MJM RPG Maker MZ Plugin (hereafter referred to as "Plugin" or "the plugin"), you (also referred to as "The user") have agreed to the terms of service of the Plugin.
+
+In the case that you do not agree to the following terms and conditions, Jomarcenter-MJM (here after "Jomarcenter-MJM") advises that you discontinue the use of the plugin.
+
+> ALLOWED
+- Modify the plugin as long as the plugin creator is still credited.
+- use of plugin in any form of content, NSFW or otherwise.
+
+
+> PROHIBITED
+
+By agreeing to the terms, the user MAY NOT:
+- Sell, redistribute or rent out the plugin in part or whole.
+- Modify the plugin and credit the modification as their own.
+
+> REQUIRED
+- Credit Jomarcenter-MJM or MJMCWAI on your in-game credit (at minimum)
+
+> LIABILITIES
+-Jomarcenter-MJM is not responsible for any loss, or damage caused by using this plugin or any related services offered and provided by MJMCWAI.
+
+-Jomarcenter-MJM does not provide support to user-modified version of the plugin.
+
+-Jomarcenter-MJM does not guarantee the proper operation of the plugin, its quality and performance if stated system requirements and compatibility requirements are not met.
+
+-Jomarcenter-MJM is not responsible for any multimedia content produced using this plugins.
+
+> Ownership of intellectual property rights
+
+All intellectual property rights for this software and related services remain the property of Jomarcenter-MJM. 
+
+
+> Changes to the Terms of Use
+
+Changes to the terms of use may change without prior notice.
