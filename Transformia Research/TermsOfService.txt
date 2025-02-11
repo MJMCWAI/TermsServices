@@ -11,7 +11,7 @@ This software is intended for personal use and entertainment and is not advisabl
 
 By agreeing to the terms, the user MAY NOT:
 
-	-Produce multimedia content or software modifications that depicts real-life individuals, groups, and events in a way that is deemed offensive or is produced with the intent of defamation, harassment, censorship or discrimination. This includes the development team (MJMCWAI) and its partners. 
+	-Produce multimedia content or software modifications that depicts real-life individuals, groups, and events in a way that is deemed offensive or is produced with the intent of defamation, harassment, censors or discrimination. This includes the development team (MJMCWAI) and its partners. 
 		-The following are examples of "multimedia content"
 			-Game assets/mods
 			-Televised programming
