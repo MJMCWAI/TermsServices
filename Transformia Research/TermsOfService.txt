@@ -2,7 +2,7 @@ Last Updated: 2/11/2025
 
 By using Transformia Research Software (hereafter referred to as "software" or "the software") in any way, shape or form, you (also referred to as "The user") have agreed to the terms of service of the software.
 
-In the case that you do not agree to the following terms and conditions, MJM Creative Works and Ideas (here after "MJMCWAI") advises that you discontinue the use of the software.
+In the case that you do not agree to the following terms and conditions, Creative Works and Ideas (here after "CWAI") advises that you discontinue the use of the software.
 
 This software is intended for personal use and entertainment and is not advisable to be used for any other purposes. You must be 18 year old and above to access and use this software.
 
@@ -10,7 +10,8 @@ This software is intended for personal use and entertainment and is not advisabl
 > PROHIBITED
 
 By agreeing to the terms, the user MAY NOT:
-
+	-Access the software if you are underage and cannot access restrected content.
+		-CWAI have the rights to contact social service against parents or guardian of the individual who have gain access to this software.
 	-Produce multimedia content or software modifications that depicts real-life individuals, groups, and events in a way that is deemed offensive or is produced with the intent of defamation, harassment, censors or discrimination. This includes the development team (MJMCWAI) and its partners. 
 		-The following are examples of "multimedia content"
 			-Game assets/mods
@@ -31,13 +32,13 @@ By agreeing to the terms, the user MAY NOT:
 
 > LIABILITIES
 
--MJMCWAI is not responsible for any loss, or damage caused by using this software or any related services offered and provided by MJMCWAI nor its partners.
+-CWAI is not responsible for any loss, or damage caused by using this software or any related services offered and provided by MJMCWAI nor its partners.
 
--MJMCWAI does not guarantee the proper operation of the software, its quality and performance if stated system requirements and compatibility requirements are not met.
+-CWAI does not guarantee the proper operation of the software, its quality and performance if stated system requirements and compatibility requirements are not met.
 
--MJMCWAI is not responsible for the content within third-party, user-generated content or any form of software modification, and cannot be held liable due to its distribution, availability, its effect on the software and any intellectual property rights involved.
+-CWAI is not responsible for the content within third-party, user-generated content or any form of software modification, and cannot be held liable due to its distribution, availability, its effect on the software and any intellectual property rights involved.
 
--MJMCWAI is not responsible for any multimedia content produced depicting the software, its assets and general gameplay.
+-CWAI is not responsible for any multimedia content produced depicting the software, its assets and general gameplay.
 
 -The user is responsible for their own health and well-being while using this software.
 
