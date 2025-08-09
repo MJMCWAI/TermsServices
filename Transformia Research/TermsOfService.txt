@@ -27,6 +27,8 @@ By agreeing to the terms, the user MAY NOT:
 
 	-Use the software to promote real-life violence or depict topics relating to real-life violence.
 
+	-Use this software and its content including images and text for use in creation of AI or AI model without permission from Creative Works and Ideas
+
 	-Sell, redistribute or rent out the software in part or whole.
 
 
